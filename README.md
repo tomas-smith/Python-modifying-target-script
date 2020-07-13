@@ -1,2 +1,2 @@
 # Python script virus example
- Modifies a target file (sfs.py) with specific needs based on university module needs.
+ A python 3 script that modifies a specific file (sfs.py) with specific needs. Made during my university years.
